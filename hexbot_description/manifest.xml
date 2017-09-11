@@ -1,0 +1,6 @@
+<package>
+  <description brief="hexbot_description">hexbot_description</description>
+  <depend package="gazebo" />
+  <author>fjp</author>
+  <license>BSD</license>
+</package>
